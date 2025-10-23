@@ -83,3 +83,6 @@ By identifying at-risk customers, the business can proactively implement targete
 - Experiment with other classification algorithms (e.g., XGBoost, Logistic Regression).
 - Deploy the model as a web application using Flask or Streamlit for real-time predictions.
 
+## 👤 Author
+H.V.L.Ranasinghe
+- LinkedIn: https://www.linkedin.com/in/lakshika-ranasinghe-1404ab34a/
