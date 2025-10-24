@@ -64,7 +64,7 @@ By identifying at-risk customers, the business can proactively implement targete
 ## 🚀 How to Run
 1.  Clone this repository:
     ```bash
-    git clone https://github.com/your-username/customer-churn-prediction.git
+    git clone https://github.com/hvlr2111/customer-churn-prediction.git
     ```
 2.  Navigate to the project directory:
     ```bash
